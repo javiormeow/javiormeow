@@ -112,42 +112,6 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ![Negotiation](https://img.shields.io/badge/Negotiation-9C27B0?style=for-the-badge)
 
 ---
-
-## 🚀 Featured Projects
-
-### **Lalah — Multilingual AI Chatbot**
-A custom built educational chatbot for students powered by LangChain, Redis, ChromaDB, RAG, OpenAI/Gemini, Flask, and AWS. Culturally aware, curriculum aligned, and privacy first; Lalah respects Afghan values and Islamic principles while delivering personalized learning in Dari, Pashto, and English.
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/78knlw)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lalah_Senf_bot)
-[![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorbot.senf.af/)
-
----
-
-### **Senf.af — LMS for Students**  
-A structured LMS for curriculum content, activities, student learning, learning materials in Dari and Pashto from Grade 7 to Grade 12.
-👉 [Visit Senf.af](https://senf.af/)
-
----
-
-### **Kankor.af — LMS for Kankor Students**  
-A digital platform and application for students providing Kankor exam preparation, mock exams, past papers, and progress tracking.  
-👉 [Visit Kankor.af](https://kankor.af/)
-
----
-
-### **Danalearn.org — Education LMS**  
-Managing large bilingual content libraries, improving learning flows, and providing free access to education.  
-👉 [Visit Danalearn](https://www.danalearn.org/)
-
----
-
-### **Afghan Community & Welfare Centre Website**  
-Designed and developed entirely in Wix, creating a modern platform for community services and information in the UK (United Kingdom).  
-👉 [Visit Afghan-CW](https://www.afghan-cw.org.uk/)
-
----
-
 ### **Lapis Group Website**  
 Worked with the team to enhance the website’s design and functionality, improve WordPress performance, and implement search features, filters, and technical optimizations.
 👉 [Visit Lapis Group](https://lapis-group.com/)
@@ -216,29 +180,16 @@ A comprehensive Windows desktop application built with C# and SQL Server for uni
 
 <p align="center">
   <strong>Native:</strong><br/>
-  <img src="https://img.shields.io/badge/Dari-●●●●●-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pashto-●●●●●-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-●●●●●-success?style=flat-square" />
 </p>
-<p align="center">
-  <strong>Fluent:</strong><br/>
-  <img src="https://img.shields.io/badge/English-●●●●○-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Urdu-●●●●○-blue?style=flat-square" />
-</p>
-<p align="center">
-  <strong>Medium:</strong><br/>
-  <img src="https://img.shields.io/badge/Hindi-●●●○○-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Arabic-●●●○○-yellow?style=flat-square" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deanjavior-373020136/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/javiormeow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:shams.deanj0125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/93774189382"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="deanj0125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://wa.me/93774189382"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
 </p>
 
 ---
