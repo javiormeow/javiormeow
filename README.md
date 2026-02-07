@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+LMS+Specialist;Team+Lead+%40+Lapis+Group" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+8%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+LMS+Specialist;Team+Lead+%40+Lapis+Group" alt="Typing SVG" /></a>
 </p>
 
 # Dean Javior — AI Engineer, Software Developer & Web Technologist
