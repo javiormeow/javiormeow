@@ -17,7 +17,6 @@
 
 AI Engineer and Software Developer specializing in multilingual chatbots, digital platforms, and intelligent systems — empowering Afghanistan with technology and AI.
 
----
 
 ## 🔭 Current Focus
 
